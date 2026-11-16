@@ -1,0 +1,16 @@
+TITLE: Siam Corner Cafe — Operations and Decision Rules
+DOCUMENT TYPE: Sample local operations notes and business decision policy
+DATA STATUS: FICTIONAL teaching dataset; not a real business policy.
+LOCATION CONTEXT: A hypothetical small cafe near a Bangkok transit station.
+
+Current routine: Two staff members are scheduled for the weekday lunch window from 11:00 to 14:00. One staff member mainly accepts orders and handles payment; the other mainly prepares drinks. In the teaching scenario, drink preparation takes approximately four minutes per drink and customers report typical lunchtime waits of 9–14 minutes. Demand is clustered during the peak; these figures are approximate rather than direct timestamp records.
+
+The cafe uses a basic spreadsheet to record daily total orders, total sales, stock usage, and the count of complaints about queues. The spreadsheet does not contain individual customer identities. For the next experiment, staff can additionally record order timestamps, pickup timestamps, and whether a loyalty offer was used, without storing sensitive personal information.
+
+Management has allowed up to THB 8,000 for a one-month experiment. Acceptable pilots include queue signage, a small-scale pre-order system, a stamp-card campaign, or an adjusted staffing pattern. The team should select only one primary change at first where possible; otherwise it will be difficult to attribute results to a specific intervention.
+
+Proposed evaluation metrics are median customer waiting time, orders per lunch hour, gross sales, estimated contribution after variable costs, loyalty redemptions, and repeat purchase rate if measurable. Record a pre-pilot baseline and compare similar weekdays before and after, while acknowledging that this is not a randomized experiment.
+
+Decision rule: prefer a pilot that directly addresses a documented customer pain point, costs no more than THB 8,000, has measurable operational outcomes, and can be stopped if customer experience deteriorates. Evaluate both the potential revenue upside and the operational cost. Do not invent exact financial ROI unless the necessary cost, revenue, and experiment data are available.
+
+Local knowledge: The cafe's transit-adjacent Bangkok location, rush-hour timing, Thai baht budget, staffing pattern, and observed feedback are case-specific knowledge that a general language model would not know unless these documents were provided. All are fictional case assumptions for this assignment.

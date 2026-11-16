@@ -1,0 +1,19 @@
+TITLE: Siam Corner Cafe — Local Customer Feedback
+DOCUMENT TYPE: Sample survey summary
+DATA STATUS: FICTIONAL teaching dataset; not collected from real customers.
+LOCATION CONTEXT: Hypothetical Bangkok cafe customers.
+PERIOD: September 2026.
+
+Forty-five customers completed a short optional feedback survey in September 2026. The survey is a small convenience sample; it may not be representative of all customers. Survey respondents could choose multiple suggestions, so counts do not need to add to 45.
+
+22 out of 45 respondents said they wanted shorter waits during the lunch period. 18 respondents said they would like a simple loyalty-stamp program. 15 respondents requested an oat-milk option. 12 respondents were interested in ordering ahead before picking up their drinks.
+
+Illustrative qualitative comments (fictional):
+- "I have only a short break around noon and cannot wait too long."
+- "I would come back more often if there were a straightforward stamp card."
+- "An order-ahead option would be convenient when traveling to work."
+- "Please keep prices clear and the ordering process simple."
+
+Possible business questions: Is the 12:00–14:00 queue the most urgent bottleneck? Will reducing queue time improve repeat purchases? Is a low-cost loyalty stamp pilot worth testing? Does demand for oat milk justify a new inventory item?
+
+Limitations: There is no direct willingness-to-pay measurement, no representative sampling, no customer lifetime value estimate, and no proof that suggestions will improve sales. Treat all recommendations as hypotheses to validate.

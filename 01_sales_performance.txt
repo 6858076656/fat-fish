@@ -1,0 +1,15 @@
+TITLE: Siam Corner Cafe — September 2026 Sales Performance
+DOCUMENT TYPE: Sample internal sales report
+DATA STATUS: FICTIONAL teaching dataset; not collected from a real business.
+LOCATION CONTEXT: A hypothetical small cafe near a Bangkok transit station, Thailand.
+PERIOD: 1–30 September 2026 (30 days).
+
+The cafe processed 1,200 orders during September 2026 and recorded THB 180,000 in gross sales. Average revenue per order was THB 150 (180,000 / 1,200). The estimated variable cost of goods sold was THB 72,000, giving an estimated contribution of THB 108,000, or 60% of sales. Estimated fixed operating costs were THB 90,000, yielding a simplified operating surplus of THB 18,000 before tax, financing, and any unlisted expenses. These numbers are illustrative, not audited accounts.
+
+On weekdays, the cafe received 780 orders (65% of monthly orders); weekends accounted for 420 orders (35%). The lunchtime period from 12:00 to 14:00 represented approximately 38% of all orders. These shares are descriptive and do not establish why customers buy.
+
+Order sources were walk-in at 660 orders (55%), Instagram inquiries or promotions at 300 orders (25%), and delivery apps at 240 orders (20%). A delivery-app commission of 25% of the sale price is ASSUMED for the case study. The case study does not provide channel-specific product costs, so a rigorous channel profit comparison is not yet possible.
+
+Popular drink counts included 350 lattes, 300 Thai milk teas, and 220 matcha drinks. These are item counts, not the number of distinct orders, because an order may include multiple items. The case study does not provide a full SKU-level product mix.
+
+Decision-making implications: examine lunchtime queue management, test Instagram promotions using a measured return-on-marketing metric, and compare delivery margin after commissions. Do not claim that a proposed intervention caused a performance change without running a controlled comparison or collecting additional evidence.
